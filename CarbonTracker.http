@@ -1,0 +1,6 @@
+@CarbonTracker_HostAddress = http://localhost:5293
+
+GET {{CarbonTracker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
